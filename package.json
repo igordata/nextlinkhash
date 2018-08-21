@@ -1,13 +1,12 @@
 {
-  "name": "canary",
+  "name": "next link hash doesn't work",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start",
-    "server": "node server.js"
+    "start": "next start"
   },
   "dependencies": {
     "next": "^7.0.0-canary.0",
