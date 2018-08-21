@@ -1,0 +1,17 @@
+{
+  "name": "canary",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "server": "node server.js"
+  },
+  "dependencies": {
+    "next": "^7.0.0-canary.0",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  }
+}
